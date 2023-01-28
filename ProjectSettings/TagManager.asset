@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DialogueManager
+  - MediumDistance
+  - FarDistance
+  - NearDistance
+  - SusSlider
+  - Questioning
+  - VoiceRange
+  - LevelLoader
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1063369315
+    locked: 0
+  - name: Above Floor
+    uniqueID: 264875931
+    locked: 0
+  - name: Player
+    uniqueID: 3118269533
+    locked: 0
+  - name: Above Player
+    uniqueID: 587750837
+    locked: 0
+  - name: UI
+    uniqueID: 1125880147
+    locked: 0
